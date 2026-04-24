@@ -13,5 +13,5 @@ class Lab3TestCases(unittest.TestCase):
         self.assertEqual(expected, result)
 
 
-if __name__ == '__main__':
+if __name__ == '__main__':         #Question it would pass because the test_double_one is 2 and when input n*2 its still equal 4, so it works.
     unittest.main()
