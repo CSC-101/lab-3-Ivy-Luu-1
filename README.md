@@ -1,2 +1,3 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/wXQiiW8O)
 # Lab3
+Task 1 and 2 are in the github folder. Task 3 changes are in the functions.py and testcases.py folder.
